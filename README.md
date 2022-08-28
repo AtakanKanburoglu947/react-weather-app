@@ -1,4 +1,4 @@
-#### Note: To use the app, get weather api key from OpenWeatherMap and assign it to apiKey variable as a string.
+#### Note: To use the app, get weather api key from OpenWeatherMap and assign it to apiKey variable as a string in weather-object.js.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
