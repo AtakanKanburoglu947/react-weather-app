@@ -1,5 +1,7 @@
+// Get weather api key from openweathermap and assing it to apiKey variable as a string.
+let apikey;
 export let weatherObject = {
-    "apiKey": "6ac5c76972d74c73f495a46af6e482c6",
+    "apiKey": apikey,
     "url" : "https://api.openweathermap.org/data/2.5/weather?q=",
     "units": "&units=metric&appid="
 };
